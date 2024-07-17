@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/rAMv9uiWHY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\gRPCConsoleServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\c\\.nuget\\packages\\google.protobuf\\3.27.2\\google.protobuf.3.27.2.nupkg.sha512",
+    "C:\\Users\\c\\.nuget\\packages\\grpc\\2.46.6\\grpc.2.46.6.nupkg.sha512",
+    "C:\\Users\\c\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\c\\.nuget\\packages\\grpc.core.api\\2.46.6\\grpc.core.api.2.46.6.nupkg.sha512",
+    "C:\\Users\\c\\.nuget\\packages\\grpc.tools\\2.64.0\\grpc.tools.2.64.0.nupkg.sha512",
+    "C:\\Users\\c\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

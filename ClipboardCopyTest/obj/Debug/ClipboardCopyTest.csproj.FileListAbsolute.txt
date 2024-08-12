@@ -1,0 +1,4 @@
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardCopyTest\obj\Debug\ClipboardCopyTest.csproj.AssemblyReference.cache
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardCopyTest\obj\Debug\ClipboardCopyTest.Properties.Resources.resources
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardCopyTest\obj\Debug\ClipboardCopyTest.csproj.GenerateResource.cache
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardCopyTest\obj\Debug\ClipboardCopyTest.csproj.CoreCompileInputs.cache

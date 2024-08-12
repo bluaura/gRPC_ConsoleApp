@@ -1,0 +1,15 @@
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\bin\Debug\net6.0\FileReadWriteSample.exe
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\bin\Debug\net6.0\FileReadWriteSample.deps.json
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\bin\Debug\net6.0\FileReadWriteSample.runtimeconfig.json
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\bin\Debug\net6.0\FileReadWriteSample.dll
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\bin\Debug\net6.0\FileReadWriteSample.pdb
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\FileReadWriteSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\FileReadWriteSample.AssemblyInfoInputs.cache
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\FileReadWriteSample.AssemblyInfo.cs
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\FileReadWriteSample.csproj.CoreCompileInputs.cache
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\FileReadWriteSample.sourcelink.json
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\FileReadWriteSample.dll
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\refint\FileReadWriteSample.dll
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\FileReadWriteSample.pdb
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\FileReadWriteSample.genruntimeconfig.cache
+C:\Users\c\source\repos\gRPCConsoleServer\FileReadWriteSample\obj\Debug\net6.0\ref\FileReadWriteSample.dll

@@ -1,0 +1,9 @@
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\bin\Debug\ClipboardTest2.exe.config
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\bin\Debug\ClipboardTest2.exe
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\bin\Debug\ClipboardTest2.pdb
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\obj\Debug\ClipboardTest2.csproj.AssemblyReference.cache
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\obj\Debug\ClipboardTest2.Properties.Resources.resources
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\obj\Debug\ClipboardTest2.csproj.GenerateResource.cache
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\obj\Debug\ClipboardTest2.csproj.CoreCompileInputs.cache
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\obj\Debug\ClipboardTest2.exe
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest2\obj\Debug\ClipboardTest2.pdb

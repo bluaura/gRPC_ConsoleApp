@@ -1,0 +1,5 @@
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest\obj\Debug\net6.0\ClipboardTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest\obj\Debug\net6.0\ClipboardTest.AssemblyInfoInputs.cache
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest\obj\Debug\net6.0\ClipboardTest.AssemblyInfo.cs
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest\obj\Debug\net6.0\ClipboardTest.csproj.CoreCompileInputs.cache
+C:\Users\c\source\repos\gRPCConsoleServer\ClipboardTest\obj\Debug\net6.0\ClipboardTest.sourcelink.json

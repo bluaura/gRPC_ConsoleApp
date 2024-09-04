@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrpcConsolClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b06eb2fbcc83df83f4e52a5be6a4063656681b80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1870473e03ca582cc5fce2f4e70bb4f29adcc42f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrpcConsolClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrpcConsolClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

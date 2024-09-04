@@ -25,7 +25,7 @@ namespace Greet {
       byte[] descriptorData = global::System.Convert.FromBase64String(
           string.Concat(
             "ChJQcm90b3MvZ3JlZXQucHJvdG8SBWdyZWV0IhwKDEhlbGxvUmVxdWVzdBIM",
-            "CgRuYW1lGAEgASgJIh0KCkhlbGxvUmVwbHkSDwoHbWVzc2FnZRgBIAEoCTI9",
+            "CgRuYW1lGAEgASgJIh0KCkhlbGxvUmVwbHkSDwoHbWVzc2FnZRgBIAMoCTI9",
             "CgdHcmVldGVyEjIKCFNheUhlbGxvEhMuZ3JlZXQuSGVsbG9SZXF1ZXN0GhEu",
             "Z3JlZXQuSGVsbG9SZXBseUIwChhpby5ncnBjLmV4YW1wbGVzLmdyZWV0ZXJC",
             "DEdyZWV0ZXJQcm90b1ABogIDSExXYgZwcm90bzM="));
@@ -271,7 +271,7 @@ namespace Greet {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public HelloReply(HelloReply other) : this() {
-      message_ = other.message_;
+      message_ = other.message_.Clone();
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -283,14 +283,13 @@ namespace Greet {
 
     /// <summary>Field number for the "message" field.</summary>
     public const int MessageFieldNumber = 1;
-    private string message_ = "";
+    private static readonly pb::FieldCodec<string> _repeated_message_codec
+        = pb::FieldCodec.ForString(10);
+    private readonly pbc::RepeatedField<string> message_ = new pbc::RepeatedField<string>();
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
-    public string Message {
+    public pbc::RepeatedField<string> Message {
       get { return message_; }
-      set {
-        message_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
-      }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -308,7 +307,7 @@ namespace Greet {
       if (ReferenceEquals(other, this)) {
         return true;
       }
-      if (Message != other.Message) return false;
+      if(!message_.Equals(other.message_)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -316,7 +315,7 @@ namespace Greet {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override int GetHashCode() {
       int hash = 1;
-      if (Message.Length != 0) hash ^= Message.GetHashCode();
+      hash ^= message_.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -335,10 +334,7 @@ namespace Greet {
     #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
       output.WriteRawMessage(this);
     #else
-      if (Message.Length != 0) {
-        output.WriteRawTag(10);
-        output.WriteString(Message);
-      }
+      message_.WriteTo(output, _repeated_message_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -349,10 +345,7 @@ namespace Greet {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
-      if (Message.Length != 0) {
-        output.WriteRawTag(10);
-        output.WriteString(Message);
-      }
+      message_.WriteTo(ref output, _repeated_message_codec);
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -363,9 +356,7 @@ namespace Greet {
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public int CalculateSize() {
       int size = 0;
-      if (Message.Length != 0) {
-        size += 1 + pb::CodedOutputStream.ComputeStringSize(Message);
-      }
+      size += message_.CalculateSize(_repeated_message_codec);
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
       }
@@ -378,9 +369,7 @@ namespace Greet {
       if (other == null) {
         return;
       }
-      if (other.Message.Length != 0) {
-        Message = other.Message;
-      }
+      message_.Add(other.message_);
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
 
@@ -397,7 +386,7 @@ namespace Greet {
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
             break;
           case 10: {
-            Message = input.ReadString();
+            message_.AddEntriesFrom(input, _repeated_message_codec);
             break;
           }
         }
@@ -416,7 +405,7 @@ namespace Greet {
             _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
             break;
           case 10: {
-            Message = input.ReadString();
+            message_.AddEntriesFrom(ref input, _repeated_message_codec);
             break;
           }
         }

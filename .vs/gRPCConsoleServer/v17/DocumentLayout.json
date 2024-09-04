@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsoleserver\\greeterserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|solutionrelative:grpcconsoleserver\\greeterserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|solutionrelative:grpcconsolclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsoleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|solutionrelative:grpcconsoleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsoleserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|solutionrelative:grpcconsoleserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|solutionrelative:grpcconsolclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|solutionrelative:grpcconsolclient2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{418419C5-26D6-4A79-B4CC-8B48975B3FFF}|FileReadWriteSample\\FileReadWriteSample.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\filereadwritesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{418419C5-26D6-4A79-B4CC-8B48975B3FFF}|FileReadWriteSample\\FileReadWriteSample.csproj|solutionrelative:filereadwritesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|solutionrelative:grpcconsolclient2\\serverprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|solutionrelative:grpcconsolclient2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient2\\commandserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|solutionrelative:grpcconsolclient2\\commandserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient2\\protos\\command.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{2DA60BF1-703A-43D9-88A3-E728C016FEFF}|GrpcConsolClient2\\GrpcConsolClient2.csproj|solutionrelative:grpcconsolclient2\\protos\\command.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|solutionrelative:grpcconsolclient\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|solutionrelative:grpcconsolclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsoleserver\\grpcconsoleserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -63,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{E61A48C7-B35F-43C4-8CF5-3E8BC6E2EC18}|gRPCConsoleServer2\\gRPCConsoleServer2.csproj|solutionrelative:grpcconsoleserver2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsoleserver\\greeterserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|solutionrelative:grpcconsoleserver\\greeterserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsoleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|solutionrelative:grpcconsoleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsolclient\\grpcconsolclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5D0B88E5-8DA0-4B61-A9B3-71B2EB010F3A}|GrpcConsolClient\\GrpcConsolClient.csproj|solutionrelative:grpcconsolclient\\grpcconsolclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|c:\\users\\c\\source\\repos\\grpcconsoleserver\\grpcconsoleserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4E307EC6-A67D-4203-9E10-067DA971F302}|gRPCConsoleServer\\gRPCConsoleServer.csproj|solutionrelative:grpcconsoleserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1071EA3-6A16-4001-811A-49E16052984B}|ClipboardTest2\\ClipboardTest2.csproj|C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\clipboardtest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,67 +122,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppendAllLinesSample.cs",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\AppendAllLinesSample.cs",
-              "RelativeDocumentMoniker": "FileReadWriteSample\\AppendAllLinesSample.cs",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\AppendAllLinesSample.cs",
-              "RelativeToolTip": "FileReadWriteSample\\AppendAllLinesSample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:06:58.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WriteAllLinesSample.cs",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\WriteAllLinesSample.cs",
-              "RelativeDocumentMoniker": "FileReadWriteSample\\WriteAllLinesSample.cs",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\WriteAllLinesSample.cs",
-              "RelativeToolTip": "FileReadWriteSample\\WriteAllLinesSample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:05:48.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReadAllLinesSample.cs",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\ReadAllLinesSample.cs",
-              "RelativeDocumentMoniker": "FileReadWriteSample\\ReadAllLinesSample.cs",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\ReadAllLinesSample.cs",
-              "RelativeToolTip": "FileReadWriteSample\\ReadAllLinesSample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:04:27.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\Program.cs",
               "RelativeDocumentMoniker": "FileReadWriteSample\\Program.cs",
               "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\Program.cs",
               "RelativeToolTip": "FileReadWriteSample\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:03:24.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "greet.proto",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer2\\Protos\\greet.proto",
-              "RelativeDocumentMoniker": "gRPCConsoleServer2\\Protos\\greet.proto",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer2\\Protos\\greet.proto",
-              "RelativeToolTip": "gRPCConsoleServer2\\Protos\\greet.proto",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-08-10T05:35:29.409Z",
               "EditorCaption": ""
             },
             {
@@ -199,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ServerProcess.cs",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient2\\ServerProcess.cs",
               "RelativeDocumentMoniker": "GrpcConsolClient2\\ServerProcess.cs",
@@ -211,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "CommandServer.cs",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient2\\CommandServer.cs",
               "RelativeDocumentMoniker": "GrpcConsolClient2\\CommandServer.cs",
@@ -223,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "command.proto",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient2\\Protos\\command.proto",
               "RelativeDocumentMoniker": "GrpcConsolClient2\\Protos\\command.proto",
@@ -235,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient2\\Program.cs",
               "RelativeDocumentMoniker": "GrpcConsolClient2\\Program.cs",
@@ -243,11 +191,125 @@
               "RelativeToolTip": "GrpcConsolClient2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T02:41:33.285Z"
+              "WhenOpened": "2024-08-10T02:41:33.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcConsolClient\\Program.cs",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\Program.cs",
+              "RelativeToolTip": "GrpcConsolClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T01:10:56.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "gRPCConsoleServer\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\Protos\\greet.proto",
+              "RelativeToolTip": "gRPCConsoleServer\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-07-06T00:40:27.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcConsolClient\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcConsolClient\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-07-06T01:11:23.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\Program.cs",
+              "RelativeDocumentMoniker": "gRPCConsoleServer\\Program.cs",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\Program.cs",
+              "RelativeToolTip": "gRPCConsoleServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T00:37:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GreeterServer.cs",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\GreeterServer.cs",
+              "RelativeDocumentMoniker": "gRPCConsoleServer\\GreeterServer.cs",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\GreeterServer.cs",
+              "RelativeToolTip": "gRPCConsoleServer\\GreeterServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T00:54:00.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer2\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "gRPCConsoleServer2\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer2\\Protos\\greet.proto",
+              "RelativeToolTip": "gRPCConsoleServer2\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-08-10T05:35:29.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadAllLinesSample.cs",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\ReadAllLinesSample.cs",
+              "RelativeDocumentMoniker": "FileReadWriteSample\\ReadAllLinesSample.cs",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\ReadAllLinesSample.cs",
+              "RelativeToolTip": "FileReadWriteSample\\ReadAllLinesSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:04:27.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WriteAllLinesSample.cs",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\WriteAllLinesSample.cs",
+              "RelativeDocumentMoniker": "FileReadWriteSample\\WriteAllLinesSample.cs",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\WriteAllLinesSample.cs",
+              "RelativeToolTip": "FileReadWriteSample\\WriteAllLinesSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:05:48.763Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "AppendAllLinesSample.cs",
+              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\AppendAllLinesSample.cs",
+              "RelativeDocumentMoniker": "FileReadWriteSample\\AppendAllLinesSample.cs",
+              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\FileReadWriteSample\\AppendAllLinesSample.cs",
+              "RelativeToolTip": "FileReadWriteSample\\AppendAllLinesSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:06:58.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "GrpcConsolClient2.csproj",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient2\\GrpcConsolClient2.csproj",
               "RelativeDocumentMoniker": "GrpcConsolClient2\\GrpcConsolClient2.csproj",
@@ -259,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "gRPCConsoleServer.csproj",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\gRPCConsoleServer.csproj",
               "RelativeDocumentMoniker": "gRPCConsoleServer\\gRPCConsoleServer.csproj",
@@ -271,31 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\Program.cs",
-              "RelativeDocumentMoniker": "GrpcConsolClient\\Program.cs",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\Program.cs",
-              "RelativeToolTip": "GrpcConsolClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T01:10:56.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "greet.proto",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\Protos\\greet.proto",
-              "RelativeDocumentMoniker": "GrpcConsolClient\\Protos\\greet.proto",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\Protos\\greet.proto",
-              "RelativeToolTip": "GrpcConsolClient\\Protos\\greet.proto",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-07-06T01:11:23.984Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "GreeterServer.cs",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer2\\GreeterServer.cs",
               "RelativeDocumentMoniker": "gRPCConsoleServer2\\GreeterServer.cs",
@@ -307,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer2\\Program.cs",
               "RelativeDocumentMoniker": "gRPCConsoleServer2\\Program.cs",
@@ -319,19 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GreeterServer.cs",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\GreeterServer.cs",
-              "RelativeDocumentMoniker": "gRPCConsoleServer\\GreeterServer.cs",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\GreeterServer.cs",
-              "RelativeToolTip": "gRPCConsoleServer\\GreeterServer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T00:54:00.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GrpcConsolClient.csproj",
               "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\GrpcConsolClient\\GrpcConsolClient.csproj",
               "RelativeDocumentMoniker": "GrpcConsolClient\\GrpcConsolClient.csproj",
@@ -340,18 +366,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-06T01:11:17.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\Program.cs",
-              "RelativeDocumentMoniker": "gRPCConsoleServer\\Program.cs",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\Program.cs",
-              "RelativeToolTip": "gRPCConsoleServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T00:37:51.946Z"
             },
             {
               "$type": "Document",
@@ -364,18 +378,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T13:19:39.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "greet.proto",
-              "DocumentMoniker": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\Protos\\greet.proto",
-              "RelativeDocumentMoniker": "gRPCConsoleServer\\Protos\\greet.proto",
-              "ToolTip": "C:\\Users\\c\\source\\repos\\gRPCConsoleServer\\gRPCConsoleServer\\Protos\\greet.proto",
-              "RelativeToolTip": "gRPCConsoleServer\\Protos\\greet.proto",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2024-07-06T00:40:27.138Z"
             },
             {
               "$type": "Document",

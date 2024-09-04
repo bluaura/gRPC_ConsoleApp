@@ -3,7 +3,7 @@ using gRPCConsoleServer;
 using Greet;
 
 
-const int Port = 50051;
+const int Port = 50052;
 
 Server server = new Server
 {
